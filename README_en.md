@@ -119,17 +119,27 @@ This project is licensed under the ISC License.
 
 ## Examples
 - Storyboard Style Examples:
-  - Cyberpunk Example: ![Cyberpunk](exampleImg/Cyberpunk.png)  
-    <video controls src="https://pub-c9f45f60a8cb40528b4a4ada00a44db4.r2.dev/Cyberpunk.mp4" title="Cyberpunk"></video>
+  - Cyberpunk Example：![Cyberpunk](exampleImg/Cyberpunk.png)  
 
-  - Ghibli Style Example: ![Ghibli Style](exampleImg/GhibliStyle.png)  
-    <video controls src="https://pub-c9f45f60a8cb40528b4a4ada00a44db4.r2.dev/Ghibli.mp4" title="Ghibli Style"></video>
+https://github.com/user-attachments/assets/ad56e3c8-c14e-48fb-8366-ad22c4e8ea60
 
-  - Realism Example: ![Realism](exampleImg/Realism.png)  
-    <video controls src="https://pub-c9f45f60a8cb40528b4a4ada00a44db4.r2.dev/Realism.mp4" title="Realism"></video>
 
-  - Chinese Ink Example: ![Chinese Ink](exampleImg/ChineseInk.png)  
-    <video controls src="https://pub-c9f45f60a8cb40528b4a4ada00a44db4.r2.dev/ChineseInk.mp4" title="Chinese Ink"></video>
+  - Ghibli Style Example：![Ghibli Style](exampleImg/GhibliStyle.png)  
 
-  - Anime Style Example: ![Anime](exampleImg/Anime.png)
-    <video controls src="https://pub-c9f45f60a8cb40528b4a4ada00a44db4.r2.dev/Anime.mp4" title="Anime"></video>
+https://github.com/user-attachments/assets/fe6c57fa-0bb5-4c81-8efb-1c7c52011948
+
+
+
+  - Realism Example：![Realism](exampleImg/Realism.png)
+
+https://github.com/user-attachments/assets/2ca41cbf-2765-4e6b-8e85-8ba0e8e191f5
+
+
+  - Chinese Ink Example：![Chinese Ink](exampleImg/ChineseInk.png)  
+
+https://github.com/user-attachments/assets/99305353-a348-45ca-add7-f9692bccdc95
+
+
+  - Anime Style Example：![Anime](exampleImg/Anime.png)
+
+https://github.com/user-attachments/assets/a70279b0-80f7-4b9a-96fb-173e5912d43a
