@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  storygen:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3005:3005"
+      - "5180:5180"
+    environment:
+      NODE_ENV: development
+      PORT: 3005
+      # Add other environment variables as needed
+      # GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+    volumes:
+      - ./backend/src:/app/backend/src
+      - ./backend/data:/app/backend/data
+      - ./frontend/src:/app/frontend/src
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3005"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
