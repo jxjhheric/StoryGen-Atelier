@@ -64,7 +64,20 @@ VERTEX_LOCATION=us-central1
 VERTEX_VEO_MODEL=veo-3.1-generate-preview
 ```
 
-## Quick Start (Recommended)
+## Quick Start with Docker (Recommended)
+Run the entire application in a Docker container:
+```bash
+# Build the Docker image
+./build_docker.sh
+
+# Run the container
+./run_docker.sh
+```
+Access the application at `http://localhost:5180`
+
+For detailed Docker setup and troubleshooting, see [DOCKER_SETUP.md](DOCKER_SETUP.md).
+
+## Quick Start (Without Docker)
 No need to start backend and frontend separately. Run from the root directory:
 ```bash
 # Grant execution permission (only needed once)
